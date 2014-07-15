@@ -1,0 +1,4 @@
+Uso de AngularJS
+
+AngularJS se va utilizar para toda la parte del administrador de MejorCMS,
+adicionalmente RequireJS para la carga de archivos javascript 
